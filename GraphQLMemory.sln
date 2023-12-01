@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLMemory", "GraphQLMemory\GraphQLMemory.csproj", "{359B84C9-1C63-42FB-8EBC-D40BAE71B187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359B84C9-1C63-42FB-8EBC-D40BAE71B187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359B84C9-1C63-42FB-8EBC-D40BAE71B187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359B84C9-1C63-42FB-8EBC-D40BAE71B187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359B84C9-1C63-42FB-8EBC-D40BAE71B187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
